@@ -6,7 +6,7 @@ The solutions were implemented first on LeetCode's online code editor, and appro
 
 | # | Title | Solution | Difficulty |
 |---| ----- | -------- | ---------- |
-|13|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/)| [C#](./c#/RomanToInteger.cs)|Easy|
+|13|[Roman to Integer](https://leetcode.com/problems/roman-to-integer/)| [C#](./CSharp/RomanToInteger.cs)|Easy|
 
 ## Contributing
 Pull requests are welcome!
